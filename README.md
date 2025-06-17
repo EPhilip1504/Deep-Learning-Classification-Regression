@@ -169,11 +169,7 @@ Features properly normalized using StandardScaler
 
 Tensors created with correct shapes and types
 
-## Regression Problem
-
-## Problem and Dataset Descriptions
-
-### Problem 1: Regression - Predicting Concrete Compressive Strength
+## Regression Problem: Concrete Compressive Strength
 
 * **Objective:** To predict the quantitative value of Concrete Compressive Strength (measured in MPa) based on the concrete's ingredients and age. This is a supervised learning regression task.
 * **Dataset:** The [UCI Concrete Compressive Strength dataset](https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength) was used.
