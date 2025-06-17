@@ -23,7 +23,7 @@ We worked together to perform data exploritary analysis, preprocessing, training
 ---
 
 
-## Classification Problem Section: San Francisco Crime Classification
+## San Francisco Crime Classification
 
 ### Dataset Description
 
