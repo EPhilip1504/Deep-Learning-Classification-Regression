@@ -171,6 +171,7 @@ Tensors created with correct shapes and types
 
 ## Regression Problem: Concrete Compressive Strength
 
+## Problem and Dataset Descriptions
 * **Objective:** To predict the quantitative value of Concrete Compressive Strength (measured in MPa) based on the concrete's ingredients and age. This is a supervised learning regression task.
 * **Dataset:** The [UCI Concrete Compressive Strength dataset](https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength) was used.
     * **Original Data:** 1030 instances, 8 quantitative input features (Cement, Blast Furnace Slag, Fly Ash, Water, Superplasticizer, Coarse Aggregate, Fine Aggregate, Age) and 1 quantitative output variable (Concrete Compressive Strength). No missing values.
